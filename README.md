@@ -10,7 +10,7 @@ cd todoApp
 ```javascript
 yarn
 ```
-活
+或
 ```javascript
 yarn install
 ```
