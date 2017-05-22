@@ -1,4 +1,5 @@
 # React-Native 实现的todo
+这是一个基本的TodoList，加入了AsyncStorage实现存储。
 ![](todoApp.gif)
 ### 如何执行
 ####  1、将项目克隆到本地，cd到React-redux-2
